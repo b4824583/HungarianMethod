@@ -1,0 +1,6 @@
+<frame_id>影片的編號
+<-1>追蹤編號
+<left>,<top>,<right>,<bottom>物件的四個框
+<probability>辨識的準確率
+<class_id>物件的id
+<class>物件名稱
